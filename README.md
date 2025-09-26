@@ -1,4 +1,3 @@
-[![MasterHead](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)](https://krishnasingh.io)
 <h1 align="center">Hi 👋, I'm Krishna singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj?pid=ImgDet&rs=1">
