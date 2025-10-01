@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=500&color=CC1F9D&width=600&height=70&lines=Welcome+to+my+code+world+%F0%9F%8C%8D;Hello%2C+Krishna+Singh+here+%F0%9F%98%81;Dream+%E2%80%A2+Code+%E2%80%A2+Deliver+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=500&color=CC1F9D&width=600&height=70&lines=Welcome+to+my+code+world+%F0%9F%8C%8D;Hello%2C+Krishna+Singh+here+%F0%9F%98%81;Dream+%E2%80%A2+Code+%E2%80%A2+Deliver++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%9D%A4%EF%B8%8F" alt="Typing SVG" alt="Typing SVG"/>
 
 
 <p align="center">
@@ -14,7 +14,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+About+Me" alt="About Me" />
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />
+  About Me
+</h1>
 
 </div>
 
@@ -39,7 +42,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%F0%9F%8F%86+GitHub+Trophies" alt="GitHub Trophies" />
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="40" height="40" />
+  GitHub Trophies
+</h1>
 
 </div>
 
@@ -58,7 +64,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%8C%90+Connect+With+Me" alt="Connect With Me" />
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="40" height="40" />
+  Connect With Me
+</h1>
 
 </div>
 
@@ -77,7 +86,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" alt="Tech Arsenal" />
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="40" height="40" />
+  Tech Arsenal
+</h1>
 
 </div>
 
@@ -133,13 +145,16 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+GitHub+Statistics" alt="GitHub Statistics" />
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="40" height="40" />
+  GitHub Statistics
+</h1>
 
 </div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=singhkrishna01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&count_private=true&include_all_commits=true" alt="Krishna's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=singhkrishna01&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F8D866&currStreakLabel=F75C7E&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Krishna's GitHub Streak"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=singhkrishna01&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F8D866&currStreakNum=F75C7E&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Krishna's GitHub Streak"/>
 </div>
 
 <br/>
