@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Krishna+Singh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Dream+%E2%80%A2+Code+%E2%80%A2+Deliver+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=500&color=CC259E&width=600&height=70&lines=Welcome+to+my+code+world+%F0%9F%8C%8D;Krishna+Singh+here+%F0%9F%98%81;Code+%E2%80%A2+Create+%E2%80%A2+Share+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=singhkrishna01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
@@ -43,7 +44,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=singhkrishna01&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=singhkrishna01&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
