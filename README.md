@@ -1,70 +1,166 @@
-<h2 align="center">    
-  <a href="https://git.io/typing-svg">
-    <img src="href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=500&width=500&lines=Welcome+to+my+code+world+%F0%9F%8C%8D;Krishna+Singh+here+%F0%9F%98%81;Dream+%E2%80%A2+Code+%E2%80%A2+Deliver" alt="Typing SVG" />
-  </a>
-</h2>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Krishna+Singh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Dream+%E2%80%A2+Code+%E2%80%A2+Deliver+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhkrishna01&label=Profile%20views&color=0e75b6&style=flat" alt="singhkrishna01" /> </p>
-
-<p align="left"> <a href="https://twitter.com/krishnasingh_99" target="blank"><img src="https://img.shields.io/twitter/follow/krishnasingh_99?logo=twitter&style=for-the-badge" alt="krishnasingh_99" /></a> </p>
-
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Android , HTML**
-
-- 📫 How to reach me **krishna00cs@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/krishnasingh_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishnasingh_99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishna singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna singh" height="30" width="40" /></a>
-<a href="https://instagram.com/cr7_krishna_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cr7_krishna_singh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/2101640100144_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2101640100144_cs" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/xenon01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xenon01" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=singhkrishna01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
-<h1><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;Tech Stack:</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<a name="learning-now"></a>
-<div align="center">
-    <h2><b>🛠 Technologies and tools</b></h2>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a9040c5514b96ac1a558cbef9cbc9b336c5856835fb666b5879565d4667e3b67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/a9040c5514b96ac1a558cbef9cbc9b336c5856835fb666b5879565d4667e3b67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765" height="35" alt="javascript logo" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&amp;logoColor=black&amp;style=for-the-badge" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fb72c94ad3721f83854ba8051190cd9733a49227258fca1b38bb6948bef628c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f6c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/fb72c94ad3721f83854ba8051190cd9733a49227258fca1b38bb6948bef628c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f6c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765" height="35" alt="react logo" data-canonical-src="https://img.shields.io/badge/React-61DAFB?logo=react&amp;logoColor=black&amp;style=for-the-badge" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1f30440507a25f33108fe2e9b020fefe83c1f09061ea4cbe5f9321a0ed0620d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/1f30440507a25f33108fe2e9b020fefe83c1f09061ea4cbe5f9321a0ed0620d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" height="35" alt="html5 logo" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7b586a76449309b0a862b2361ca3cf5e904ec86c36d7bed36e289f11c1d9340d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/7b586a76449309b0a862b2361ca3cf5e904ec86c36d7bed36e289f11c1d9340d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" height="35" alt="css3 logo" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b3a95c98bd07c4e34bd8be908b30b9e3909fd27363286ef2ea726467d4cd3aab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f6c6f676f3d676974266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/b3a95c98bd07c4e34bd8be908b30b9e3909fd27363286ef2ea726467d4cd3aab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f6c6f676f3d676974266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" height="35" alt="git logo" data-canonical-src="https://img.shields.io/badge/Git-F05032?logo=git&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7110d1ed12b11364d336e7acafe3a59c8f760d752fff508a0727978ab162bd90/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d4646434132383f6c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/7110d1ed12b11364d336e7acafe3a59c8f760d752fff508a0727978ab162bd90/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d4646434132383f6c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765" height="35" alt="firebase logo" data-canonical-src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&amp;logoColor=black&amp;style=for-the-badge" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3761945a3fe5266d5693dc2a693160937c652b1446985f798c6484763973fbc4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/3761945a3fe5266d5693dc2a693160937c652b1446985f798c6484763973fbc4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" height="35" alt="python logo" data-canonical-src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2dc67704d92c93364558b4a3c730bb610f3ae0d74d69ac20752193ca5d9eef8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242333f6c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/2dc67704d92c93364558b4a3c730bb610f3ae0d74d69ac20752193ca5d9eef8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242333f6c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" height="35" alt="bootstrap logo" data-canonical-src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1be325f180e5de0ccea98afe597b3e4b38f7cd5d3cea5ba4f8a4daea615a10ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d4138423943433f6c6f676f3d63266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/1be325f180e5de0ccea98afe597b3e4b38f7cd5d3cea5ba4f8a4daea615a10ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d4138423943433f6c6f676f3d63266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765" height="35" alt="c logo" data-canonical-src="https://img.shields.io/badge/C-A8B9CC?logo=c&amp;logoColor=black&amp;style=for-the-badge" style="max-width: 100%;"></a>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=black" alt="styled-components logo" title="styled-components" height="35" />
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eb7040a1714fa9e6e02b864421e76fa4fb194e610ed00ddc8bc570fa2c0ab7c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e64204353532d3036423644343f6c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/eb7040a1714fa9e6e02b864421e76fa4fb194e610ed00ddc8bc570fa2c0ab7c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e64204353532d3036423644343f6c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765" height="35" alt="tailwindcss logo" data-canonical-src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&amp;logoColor=black&amp;style=for-the-badge" style="max-width: 100%;"></a>
-    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" title="OpenCV" height="35" style="max-width: 100%;" />
-</div>
-<div align="center">
-    <h2><b>📖  What I am currently learning / improving on</b></h2>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cc056c9f5e1e6e08607cf5c7426de45b4fa57bec1e5511f35497aabb712877d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3437413234383f6c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/cc056c9f5e1e6e08607cf5c7426de45b4fa57bec1e5511f35497aabb712877d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3437413234383f6c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" height="35" alt="mongodb logo" data-canonical-src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/66a48fdc4275274b68a70c814465d2289ec78bff1b3d7faf8f1c7b68735a1352/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d3030303030303f6c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/66a48fdc4275274b68a70c814465d2289ec78bff1b3d7faf8f1c7b68735a1352/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d3030303030303f6c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" height="35" alt="express logo" data-canonical-src="https://img.shields.io/badge/Express-000000?logo=express&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/39b5ac353191426874c89fc99dc5e59b48da3a09083bebb60edb2178b89bc1c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f6c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/39b5ac353191426874c89fc99dc5e59b48da3a09083bebb60edb2178b89bc1c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f6c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" height="35" alt="nodejs logo" data-canonical-src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
-  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js logo" title="Next.js" height="35" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" height="35" />
-</div>
-<div align="center">
-    <h2><b>👾  What I am interested in learning at some point</b></h2>
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=black" alt="Sass logo" title="Sass" height="35" />
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2ad0ccada8aa2428000b44acd9544d36d990fc57ecd66b2081152a23cdad40bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f6c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/2ad0ccada8aa2428000b44acd9544d36d990fc57ecd66b2081152a23cdad40bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f6c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765" height="35" alt="linux logo" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?logo=linux&amp;logoColor=black&amp;style=for-the-badge" style="max-width: 100%;"></a>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" title="typescript" height="35" />
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=black" alt="Docker" title="docker" height="35" />
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" title="AWS" height="35" />
 </div>
 
-<a name="learning-next"></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhkrishna01&show_icons=true&locale=en&layout=compact" alt="singhkrishna01" /></p> 
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhkrishna01&show_icons=true&locale=en" alt="singhkrishna01" /></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+About+Me" alt="About Me" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhkrishna01&" alt="singhkrishna01" /></p>
+</div>
+
+<div align="center">
+
+🔭 Currently building **innovative mobile applications** with React Native
+
+🌱 Mastering the **MERN Stack** and modern web technologies
+
+💡 Passionate about **clean code** and **user-centric design**
+
+🎯 2025 Goal: Contribute to **10+ open source projects**
+
+📫 Reach me at: **krishna00cs@gmail.com**
+
+⚡ Fun fact: **I can debug code faster than I can explain it!**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%F0%9F%8F%86+GitHub+Trophies" alt="GitHub Trophies" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=singhkrishna01&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=8" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkrishna01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%8C%90+Connect+With+Me" alt="Connect With Me" />
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-singh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cr7_krishna_singh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/krishnasingh_99)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/2101640100144_cs)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/xenon01)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishna00cs@gmail.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" alt="Tech Arsenal" />
+
+</div>
+
+<div align="center">
+
+### 💻 Languages & Core Technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚛️ Frontend Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+### 🔧 Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🧰 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🎯 Currently Learning
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+GitHub+Statistics" alt="GitHub Statistics" />
+
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=singhkrishna01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&count_private=true&include_all_commits=true" alt="Krishna's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=singhkrishna01&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F8D866&currStreakLabel=F75C7E&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Krishna's GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhkrishna01&custom_title=Krishna's%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=F75C7E&line=F8D866&point=FFFFFF&area_color=F75C7E&area=true" alt="Contribution Graph"/>
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
+<div align="center">
+
+<h3>✨ Show Some Love!</h3>
+
+If you like my work, consider giving a ⭐ to my repositories!
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+**"The only way to do great work is to love what you do." - Steve Jobs**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+</div>
