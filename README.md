@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Krishna singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj?pid=ImgDet&rs=1">
+<h2 align="center">    
+  <a href="https://git.io/typing-svg">
+    <img src="\href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=500&width=500&lines=Welcome+to+my+code+world+%F0%9F%8C%8D;Krishna+Singh+here+%F0%9F%98%81;Dream+%E2%80%A2+Code+%E2%80%A2+Deliver" alt="Typing SVG" />
+  </a>
+</h2>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhkrishna01&label=Profile%20views&color=0e75b6&style=flat" alt="singhkrishna01" /> </p>
