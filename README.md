@@ -3,9 +3,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=500&color=CC1F9D&width=600&height=70&lines=Welcome+to+my+code+world+%F0%9F%8C%8D;Hello%2C+Krishna+Singh+here+%F0%9F%98%81;Dream+%E2%80%A2+Code+%E2%80%A2+Deliver++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%9D%A4%EF%B8%8F" alt="Typing SVG" alt="Typing SVG"/>
 
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=singhkrishna01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
+
+<p align="center">I'm Kshitij Singh Bisht 🙋‍♂️, a B.Tech student in Computer Science💻 with a passion for front-end development. Working towards becoming a versatile full stack developer 👩‍💻. Eager to embark on a freelancing journey🚶‍♀️ while striving to secure a software engineering role in a renowned company🏢. Let's code and innovate together!</p>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -14,7 +18,9 @@
 
 <div align="center">
 
-<h1>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
+
+<!-- <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />
   About Me
 </h1>
@@ -33,7 +39,7 @@
 
 📫 Reach me at: **krishna00cs@gmail.com**
 
-⚡ Fun fact: **I can debug code faster than I can explain it!**
+⚡ Fun fact: **I can debug code faster than I can explain it!** -->
 
 </div>
 
