@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=singhkrishna01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
-<p align="center">I’m Krishna Singh 🙋‍♂️, a B.Tech graduate in Computer Science 💻 with a passion for front-end development and the ambition to grow into a versatile full stack developer 👨‍💻. I am eager to secure a software engineering role in a reputed company 🏢, where I can contribute my skills, learn continuously, and work on building impactful digital solutions. Let’s code, create, and innovate together! 🚀</p>
+<p align="center">I’m Krishna Singh 🙋‍♂️, a B.Tech graduate in Computer Science 💻 with a passion for front-end development and the ambition to grow into a versatile full stack developer 👨‍💻. I am eager to secure a software engineering role in a reputed company 🏢, where I can contribute my skills and work on building impactful digital solutions. Let’s code, create, and innovate together! 🚀</p>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
