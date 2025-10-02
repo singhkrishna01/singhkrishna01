@@ -39,12 +39,32 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+<div align="center">
+
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="40" height="40" />
+  GitHub Trophies
+</h1>
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=singhkrishna01&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkrishna01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
 
 <h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="40" height="40" />
-  Tech Arsenal
+  <img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkzODg2ODgsIm5iZiI6MTc1OTM4ODM4OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDAyVDA2NTk0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyNjBkMDRmZjdhOGYxMmY0NTNhOGI0ZTUyZDUzNTM3ZjAxZDc2OTlmNjlmMGNlMGFhNGIwMzhkMzliODgzOTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.694OhWjUC7SyuHOktBnP1VSI1pdyU4N46IIBdtMO2OM" alt="Tools" width="40" height="40" />
+  Technologies I've Worked With
 </h1>
 
 </div>
@@ -98,33 +118,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-
 <div align="center">
 
 <h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="40" height="40" />
-  GitHub Trophies
-</h1>
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=singhkrishna01&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkrishna01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-
-<div align="center">
-
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" height="40" />
   Connect With Me
 </h1>
 
@@ -163,9 +160,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhkrishna01&custom_title=Krishna's%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=F75C7E&line=F8D866&point=FFFFFF&area_color=F75C7E&area=true" alt="Contribution Graph"/>
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 
 <div align="center">
 
