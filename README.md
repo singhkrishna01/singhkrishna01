@@ -156,7 +156,7 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=singhkrishna01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&count_private=true&include_all_commits=true" alt="Krishna's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=singhkrishna01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&count_private=true&include_all_commits=true%22%20alt=%22Krishna%27s%20GitHub%20Stats"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=singhkrishna01&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F8D866&currStreakNum=F75C7E&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Krishna's GitHub Streak"/>
 </div>
 
